@@ -1,4 +1,3 @@
-lucid-tereshkova-31b0ae.netlify.com
 [lucid-tereshkova-31b0ae.netlify.com](https://lucid-tereshkova-31b0ae.netlify.com)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
