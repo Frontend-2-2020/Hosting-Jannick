@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/Hosting-Jannick/static/js/main.bde8e531.chunk.js",
+    "main.js.map": "/Hosting-Jannick/static/js/main.bde8e531.chunk.js.map",
+    "runtime-main.js": "/Hosting-Jannick/static/js/runtime-main.162fe616.js",
+    "runtime-main.js.map": "/Hosting-Jannick/static/js/runtime-main.162fe616.js.map",
+    "static/css/2.d7be0ab4.chunk.css": "/Hosting-Jannick/static/css/2.d7be0ab4.chunk.css",
+    "static/js/2.4280f181.chunk.js": "/Hosting-Jannick/static/js/2.4280f181.chunk.js",
+    "static/js/2.4280f181.chunk.js.map": "/Hosting-Jannick/static/js/2.4280f181.chunk.js.map",
+    "index.html": "/Hosting-Jannick/index.html",
+    "precache-manifest.803fe4022a70f7772d81d8e8a5fd2a8e.js": "/Hosting-Jannick/precache-manifest.803fe4022a70f7772d81d8e8a5fd2a8e.js",
+    "service-worker.js": "/Hosting-Jannick/service-worker.js",
+    "static/css/2.d7be0ab4.chunk.css.map": "/Hosting-Jannick/static/css/2.d7be0ab4.chunk.css.map",
+    "static/js/2.4280f181.chunk.js.LICENSE.txt": "/Hosting-Jannick/static/js/2.4280f181.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Hosting-Jannick/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.162fe616.js",
+    "static/css/2.d7be0ab4.chunk.css",
+    "static/js/2.4280f181.chunk.js",
+    "static/js/main.bde8e531.chunk.js"
+  ]
+}
